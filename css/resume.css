@@ -19,7 +19,7 @@ body {
 
 h1,
 h2,
-h3,
+
 h4,
 h5,
 h6 {
@@ -80,7 +80,7 @@ p.lead.mb-{
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: rgba(56, 118, 189);;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
@@ -249,7 +249,7 @@ a:hover, a:focus, a:active {
     display: inline-block;
     height: 3.5rem;
     width: 3.5rem;
-    background-color: #495057;
+    background-color: rgba(56, 118, 189);
     color: #fff !important;
     border-radius: 100%;
     text-align: center;
@@ -258,7 +258,7 @@ a:hover, a:focus, a:active {
     margin-right: 1rem;
     margin-top: 1rem;
   }
-  
+
   .social-icons a:last-child {
     margin-right: 0;
   }
